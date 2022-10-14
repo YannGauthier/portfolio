@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Portfolio Yann gauthier</title>
-	<atom:link href="http://yanngauthier.github.io/portfolio/feed/" rel="self" type="application/rss+xml" />
+	<title>yann &#8211; Portfolio Yann gauthier</title>
+	<atom:link href="http://yanngauthier.github.io/portfolio/author/yann/feed/" rel="self" type="application/rss+xml" />
 	<link>http://yanngauthier.github.io/portfolio</link>
 	<description>Étudiant BTS SIO (Option SISR)</description>
 	<lastBuildDate>Fri, 14 Oct 2022 11:58:14 +0000</lastBuildDate>

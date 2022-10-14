@@ -7,10 +7,10 @@
 	>
 <channel>
 	<title>
-	Commentaires pour Portfolio	</title>
+	Commentaires pour Portfolio Yann gauthier	</title>
 	<atom:link href="http://yanngauthier.github.io/portfolio/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>http://yanngauthier.github.io/portfolio</link>
-	<description>Un site utilisant WordPress</description>
+	<description>Étudiant BTS SIO (Option SISR)</description>
 	<lastBuildDate>Fri, 14 Oct 2022 11:58:14 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
